@@ -1,0 +1,189 @@
+html, body{
+    margin: 0;
+    height: 100%;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+#contact {
+    background-color: #0D0208;
+}
+
+
+hr {
+    border-color: #00FF41;
+    border-style: dashed;
+}
+a:link, a:visited {
+    color: #00FF41;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #008F11;
+}
+
+ul {
+    list-style: none;
+}
+
+#getintouch {
+    margin: 0%;
+    margin-top: 150px;
+}
+
+.nameandintro {
+    position: absolute;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 2.0rem;
+    margin-left: 618px;
+    margin-top: 375px;
+}
+
+#button {
+    border: 2px #00FF41;
+    border-style: dashed;
+    padding: 10px;
+    background-color: #0D0208;
+    color: #00FF41;
+}
+
+#button:hover {
+    background-color: #00FF41;
+    color: #0D0208;
+}
+
+#intro {
+    font-family: "Roboto Mono", sans-serif;
+}
+
+
+p {
+    margin:0;
+    padding: 0%;
+    border: 0;
+}
+
+.top {
+    position: relative;
+    background-color: #0D0208;
+    color: #00FF41;
+    font-family: "Roboto Mono", sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.middle {
+    background-color: #0D0208;
+    color: #00FF41;
+    font-family: "Roboto Mono", sans-serif;
+    text-align: center;
+    padding-top: 100px;
+    max-width: 100%;
+}
+
+.bottom {
+    background-color: #0D0208;
+    color: #00FF41;
+    font-family: "Roboto Mono", sans-serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.computer {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+
+.books {
+    margin: 0px;
+}
+
+#headshot {
+    border-style: dashed;
+    margin-bottom: 10px;
+}
+
+.heading {
+    height: 50px;
+}
+
+.listlang {
+    float: left;
+    width: 60%;
+    height:100px;
+}
+
+.javaimage {
+    margin-top: 35px;
+    height: 75px;
+    width: 75%;
+}
+
+.languages {
+    height: 100px;
+    width: 50%;
+    margin: 30px auto;
+}
+
+.leadership{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin: 30px auto;
+}
+
+.globeimage {
+    margin-left: 400px;
+    width: 45%;
+    height: 100px;;
+}
+
+.listlead {
+    float: right;
+    height: 100px;
+    width: 90%;
+}
+
+.skills {
+    position: relative;
+    padding-top: 100px;
+    margin: 30px auto;
+}
+
+.listskills {
+    float: left;
+    text-align: right;
+    width: 45%;
+    height:180px;
+}
+
+.skillimage {
+    margin-top: 35px;
+    height: 75px;
+    width: 75%;
+}
+
+.card {
+    text-align: center;
+    background-color: #0D0208;
+    color: #00FF41;
+    font-family: "Roboto Mono", sans-serif;
+}
+
+form {
+    color: #00FF41;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #0D0208;
+    border: 1px solid #fff;
+    box-shadow: 5px 10px 15px #008F11;
+    border-radius: 5px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 200px;
+  }
